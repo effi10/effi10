@@ -60,7 +60,7 @@ Mes spécialités incluent notamment :
 ## 📬 Me contacter pour des prestations comme consultant SEO freelance 
 - 🌍 [Mon site web](https://www.effi10.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/cedricgirardseo/)  
-- 📷 [Aube Nature – Photographie](https://www.aube-nature.com)  
+- 📷 [Ma chaîne YouTube](https://www.youtube.com/@cedric_effi10)  
 
 ---
 
