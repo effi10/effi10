@@ -15,7 +15,7 @@ En 2010, j’ai obtenu la prestigieuse **certification CESEO**, reconnaissant of
 
 ## 🚀 Mon expertise au service du web  
 Au fil des années, j’ai accompagné des dizaines de sites (sites vitrines, e-commerce, galeries d’art, start-ups, centrales d’achats…) en adaptant mes méthodes aux évolutions constantes des moteurs de recherche.  
-Mes spécialités incluent notamment :  
+Mes spécialités de consultant SEO freelance incluent notamment :  
 - 🔎 Référencement naturel (white hat & techniques avancées)  
 - 📍 Référencement local & géolocalisé  
 - 🛡️ Contre-mesures Negative SEO  
@@ -24,6 +24,22 @@ Mes spécialités incluent notamment :
 - 🖥️ Développement de sites vitrine & e-commerce (WordPress, Prestashop)  
 - 📚 Formation SEO (enseignant vacataire à l’IUT Troyes – 2022 à 2024)  
 - ⚙️ Développement d’outils SEO (plugins WordPress, logiciels dédiés)  
+
+## Mes références clients en SEO (comme consultant freelance ou en agence)
+J'ai eu le plaisir de travailler pour un grand nombre de clients, de toutes tailles (Local SEO, e-commerces, start-ups, groupements professionnels...) que ce soit en direct comme freelance, comme consultant "in house", ou en agence. Parmi les plus connus :
+- Florajet
+- MaReduc.com
+- Poulpeo
+- Made In Meubles
+- 123Ambre
+- AuBonKawa
+- Décor Discount
+- Décostock
+- Atelier de la création
+- Javry
+- Northstar Network
+- Leader Santé
+- Fountain
 
 ---
 
