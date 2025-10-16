@@ -1,5 +1,7 @@
 # 👋 Cédric GIRARD, consultant SEO freelance 
 
+Pour me contacter ==> [C'est ici](https://github.com/effi10/#user-content--me-contacter-pour-des-prestations-comme-consultant-seo-freelance)
+
 ## 🌐 Le web et le SEO : l’histoire d’une passion  
 Doté de plus de **15 ans d’expérience en référencement naturel (SEO)**, c’est tout naturellement que j’ai choisi d’exercer dans le monde du web, après avoir occupé différents postes à responsabilité en entreprise (stratégie web, direction informatique).  
 
