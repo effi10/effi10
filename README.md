@@ -80,4 +80,4 @@ J'ai eu le plaisir de travailler pour un grand nombre de clients, de toutes tail
 
 ---
 
-✨ Merci de votre visite ! N’hésitez pas à explorer mes dépôts pour découvrir mes développements autour du SEO, de WordPress et du web en général.  
+✨ N’hésitez pas à explorer mes dépôts pour découvrir mes développements autour du SEO, de WordPress et du web en général. Liste non exhaustive de mes créations et développements.  
